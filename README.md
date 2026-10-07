@@ -5,7 +5,7 @@ Este documento especifica os requisitos funcionais e não funcionais do módulo 
 
 ## 2. Requisitos Funcionais (RF)
 - [ ] RF01: O paciente deve conseguir visualizar os horários disponíveis de cada médico.
-- [ ] RF02: O sistema deve permitir o agendamento de consultas com confirmação por e-mail.
+- [ ] RF02: O sistema deve permitir o agendamento de consultas com confirmação via WhatsApp e e-mail.
 - [ ] RF03: O médico deve visualizar sua agenda diária e semanal.
 
 ## 3. Requisitos Não Funcionais (RNF)
